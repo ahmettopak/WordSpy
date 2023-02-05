@@ -1,0 +1,139 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d2d7b67d1816314187fc5158a18c4fb, type: 3}
+  m_Name: Deneme
+  m_EditorClassIdentifier: 
+  timeInSeconds: 0
+  Columns: 10
+  Rows: 10
+  Board:
+  - Size: 10
+    Row:
+    - Y
+    - U
+    - D
+    - N
+    - L
+    - R
+    - V
+    - J
+    - X
+    - F
+  - Size: 10
+    Row:
+    - M
+    - M
+    - Q
+    - Q
+    - V
+    - B
+    - Z
+    - T
+    - N
+    - Y
+  - Size: 10
+    Row:
+    - G
+    - Q
+    - O
+    - C
+    - X
+    - E
+    - L
+    - B
+    - Y
+    - J
+  - Size: 10
+    Row:
+    - U
+    - P
+    - Q
+    - Q
+    - Y
+    - S
+    - R
+    - L
+    - O
+    - B
+  - Size: 10
+    Row:
+    - I
+    - A
+    - M
+    - K
+    - R
+    - W
+    - W
+    - I
+    - O
+    - C
+  - Size: 10
+    Row:
+    - B
+    - K
+    - B
+    - J
+    - R
+    - A
+    - K
+    - V
+    - C
+    - M
+  - Size: 10
+    Row:
+    - D
+    - U
+    - X
+    - V
+    - L
+    - J
+    - C
+    - M
+    - I
+    - W
+  - Size: 10
+    Row:
+    - N
+    - G
+    - O
+    - Z
+    - L
+    - I
+    - J
+    - B
+    - K
+    - O
+  - Size: 10
+    Row:
+    - T
+    - C
+    - Q
+    - D
+    - G
+    - Y
+    - Z
+    - C
+    - G
+    - J
+  - Size: 10
+    Row:
+    - Q
+    - K
+    - F
+    - L
+    - P
+    - D
+    - V
+    - M
+    - Z
+    - N
+  SearchWords: []
