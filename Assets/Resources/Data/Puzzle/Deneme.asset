@@ -18,122 +18,122 @@ MonoBehaviour:
   Board:
   - Size: 10
     Row:
-    - Y
-    - U
-    - D
+    - P
     - N
-    - L
-    - R
-    - V
-    - J
-    - X
-    - F
-  - Size: 10
-    Row:
-    - M
-    - M
-    - Q
-    - Q
-    - V
-    - B
-    - Z
-    - T
-    - N
-    - Y
-  - Size: 10
-    Row:
-    - G
-    - Q
-    - O
-    - C
-    - X
     - E
-    - L
-    - B
-    - Y
-    - J
-  - Size: 10
-    Row:
-    - U
-    - P
-    - Q
-    - Q
-    - Y
-    - S
-    - R
-    - L
-    - O
-    - B
-  - Size: 10
-    Row:
-    - I
-    - A
     - M
-    - K
-    - R
-    - W
-    - W
-    - I
-    - O
-    - C
-  - Size: 10
-    Row:
-    - B
-    - K
-    - B
-    - J
-    - R
-    - A
-    - K
-    - V
-    - C
-    - M
-  - Size: 10
-    Row:
+    - F
+    - Z
     - D
-    - U
-    - X
     - V
-    - L
-    - J
-    - C
-    - M
     - I
-    - W
+    - H
   - Size: 10
     Row:
-    - N
+    - V
+    - J
+    - L
+    - X
+    - S
+    - F
+    - J
+    - I
+    - Q
+    - Y
+  - Size: 10
+    Row:
     - G
+    - Y
+    - N
+    - R
+    - B
+    - I
+    - R
+    - K
+    - P
+    - Y
+  - Size: 10
+    Row:
+    - F
+    - I
+    - Q
+    - X
+    - U
+    - D
+    - J
+    - V
+    - O
+    - L
+  - Size: 10
+    Row:
+    - E
+    - A
+    - D
+    - Z
+    - E
+    - F
+    - D
+    - S
+    - Z
+    - X
+  - Size: 10
+    Row:
+    - U
     - O
     - Z
-    - L
-    - I
-    - J
+    - V
+    - V
+    - T
     - B
-    - K
-    - O
+    - X
+    - P
+    - R
   - Size: 10
     Row:
     - T
-    - C
-    - Q
-    - D
-    - G
-    - Y
-    - Z
-    - C
     - G
     - J
+    - T
+    - I
+    - J
+    - I
+    - Z
+    - O
+    - E
+  - Size: 10
+    Row:
+    - C
+    - I
+    - W
+    - O
+    - T
+    - Z
+    - N
+    - F
+    - A
+    - D
+  - Size: 10
+    Row:
+    - N
+    - L
+    - Z
+    - Y
+    - W
+    - M
+    - R
+    - S
+    - M
+    - U
   - Size: 10
     Row:
     - Q
-    - K
-    - F
-    - L
-    - P
-    - D
-    - V
-    - M
-    - Z
+    - N
+    - C
+    - W
+    - R
+    - N
+    - I
+    - U
+    - B
     - N
   SearchWords: []
